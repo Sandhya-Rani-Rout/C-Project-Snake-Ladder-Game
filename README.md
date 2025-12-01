@@ -44,3 +44,7 @@ Write the prompt one by one in the terminal
 1. cd "Paste the Document path of snake_ladder.c here"
 2. gcc snake_ladder.c -o snake_ladder.exe
 3. .\snake_ladder.exe
+
+## 6. Screenshots
+<img width="1499" height="116" alt="snake_ladder c - C - Visual Studio Code 2025-12-01" src="https://github.com/user-attachments/assets/863bab22-86a6-4812-beb1-4287e2cdf825" />
+<img width="855" height="862" alt="● snake_ladder c - C - Visual Studio Code 2025-12-" src="https://github.com/user-attachments/assets/d7731cf9-f48d-46f8-a04c-3d8ac2a2d85d" />
